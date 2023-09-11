@@ -1,0 +1,70 @@
+{
+  "sidemenu" : [
+
+      {
+        "name": "Dashboard",
+        "slug": "dashboard",
+        "selected": false,
+        "id": 1
+      },
+      {
+        "name": "Services",
+        "slug": "services",
+        "selected": false,
+        "id": 2
+      },
+      {
+        "name": "Cards",
+        "slug": "cards",
+        "selected": false,
+        "id": 3
+      },
+      {
+        "name": "Exchange",
+        "slug": "exchange",
+        "selected": false,
+        "id": 4
+      },
+      {
+        "name": "Setting",
+        "slug": "setting",
+        "selected": false,
+        "id": 5
+      }
+  ],
+    "dashboard":[
+      {
+        "balance": 88500,
+        "income" : 30500,
+        "expenses":
+        {
+          "health" : 1500,
+          "shopping": 5430,
+          "traveling" : 3000,
+          "food": 8000
+        },
+        "credit": 8420,
+        "planings": {
+          "buy a mac" : {
+            "price": 1999,
+            "saved" : 1500
+          },
+          "buy a car" : {
+            "price" : 8500,
+            "saved" : 3000
+          }
+        }
+      }
+    ],
+    "cards":[
+      {
+        "cardNumber": "1234 1234 1234 1234",
+        "cvv2" : 123,
+        "expDate": "01/01",
+        "saving": false,
+        "balance": 1234,
+        "id": 1
+      }
+    ]
+  }
+  
